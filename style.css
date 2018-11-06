@@ -1,0 +1,17 @@
+canvas{
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* overflow: hidden; */
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
