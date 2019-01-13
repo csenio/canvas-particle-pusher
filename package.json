@@ -1,0 +1,23 @@
+{
+  "name": "particle-pusher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jescowuester/canvas-particle-pusher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jescowuester/canvas-particle-pusher/issues"
+  },
+  "homepage": "https://github.com/jescowuester/canvas-particle-pusher#readme"
+}
